@@ -1180,7 +1180,7 @@ h6 {
 
 .menu--style1 .searc-wrap .search-wrap__btn {
   background: #fff;
-  color: #0674ec;
+  color: #D0FF00;
 }
 
 /* menu style 2 */
@@ -7091,8 +7091,8 @@ ul.nav-tabs.nav--tabs2 li a::before {
 }
 
 .author-area__seller-btn {
-  background: #0674ec;
-  color: #fff;
+  background: #D0FF00;
+  color: black;
   padding: 0 17px;
   display: inline-block;
   line-height: 34px;
@@ -14593,7 +14593,7 @@ span.counter {
     left: 0;
     width: 100%;
     z-index: 5;
-    height: 280px;
+    /* height: 280px; */
     background: #fff;
     padding: 0 15px;
     -webkit-box-shadow: 0 2px 20px rgba(108, 111, 115, 0.1);
