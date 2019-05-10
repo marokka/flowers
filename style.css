@@ -7263,7 +7263,7 @@ ul.nav-tabs.nav--tabs2 li a::before {
 .mainmenu__menu .navbar-nav > li > a {
   font-weight: 500;
   padding: 0;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 42px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -7307,7 +7307,7 @@ ul.nav-tabs.nav--tabs2 li a::before {
 
 /* mobile menu offcanvas */
 .mobile_content .menu_icon {
-  background: #0673ec;
+  background: #D0FF00;
   padding: 0 20px;
   line-height: 60px;
   color: white;
